@@ -11,8 +11,8 @@ home.php
 
 ![home](https://github.com/jsfmj/Library_management_codeigniter/assets/68734739/635ccf9f-8089-4c6e-99cb-d260efe23a58)
 
-contact.php
 
+contact.php
 
 ![contact](https://github.com/jsfmj/Library_management_codeigniter/assets/68734739/f1b75233-f468-43ca-98f8-f770a63c5c41)
 
@@ -39,6 +39,29 @@ cart.php
 notification.php
 
 ![notifications](https://github.com/jsfmj/Library_management_codeigniter/assets/68734739/ab3fa759-2902-49c3-84b1-127d17fa228b)
+
+
+Admin
+
+
+admin_panel.php
+
+![admin_panel](https://github.com/jsfmj/Library_management_codeigniter/assets/68734739/feae706a-f16e-43f8-b526-8badf15b42a8)
+
+
+addbook.php
+
+![addbook](https://github.com/jsfmj/Library_management_codeigniter/assets/68734739/58c4a977-58c2-460a-aa4e-bebe48526b47)
+
+
+viewbook.php
+
+![viewbooks](https://github.com/jsfmj/Library_management_codeigniter/assets/68734739/c1ea38ca-6329-4355-bf07-de9e42e06792)
+
+
+requests.php
+
+![requests](https://github.com/jsfmj/Library_management_codeigniter/assets/68734739/b011c692-629e-47ca-9a11-768c45d7410f)
 
 
 
